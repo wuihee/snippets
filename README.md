@@ -1,3 +1,3 @@
 # snippets
-
-My code snippets.
+* Algorithms
+* Simple Scripts
